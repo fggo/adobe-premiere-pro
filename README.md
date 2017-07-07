@@ -23,14 +23,54 @@
 # 01.Introduction
 # 02. Explaining The Video Production Workflow
 # 03. Getting Started
-create a project or open - import - create a new sequence (drag to sequence icon)
+creat/open a project - import - create a new sequence (drag to sequence icon)
 
 set preference
+```
+preference - Media - write XMP meta data to files (take hard drive space)
+preference - playback (separate monitor)
+preference - trim - without modifier
 
+press alt after running PR to go back to default setting
+```
 
-# 04. Importing, Capturing, And Managing Assets
+```
+cursor on and press ` to full screen
+```
+
+save new custom workspace
+```
+'alt+shift+0' go back to default workspace
+```
+
+jumping around
+```
+j k l : backward/forward changing speed and pause/play
+i/o : set in/out point
+shift+ i/o : jump to in/out point
+left/right arrow: 1 frame previous/next
+m : marker
+, . : insert/overwrite
+ctrl+shift+e : export frame
+`1
+  And Managing Assets
+
 # 05. Adding And Arranging Clips On A Single Audio/Video Pair Of Tracks
+keyboard modifier to edit sequences
+```
+shift+up/down :moves next/previous sequence (it works even when video/audio is not activated)
+, insert clip
+. overwrite clip
+ctrl + drag(timeline) : rearrange sequence
+ctrl + drag(project->timeline) : add
+right click - ripple delete 
+```
+
 # 06. Trimming And Adjusting Clips
+```
+trim + ripple delete = ripple edit tool(B)
+or keyboard modifier key + drag
+```
 # 07. Making Specialized Edits
 # 08. Adding Video And Audio Transitions
 # 09. Working With Video Effects
